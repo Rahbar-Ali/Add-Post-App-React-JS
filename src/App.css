@@ -1,0 +1,58 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+.sidebar {
+  min-height: 700px;
+}
+
+.post-card {
+  margin: 20px 50px;
+}
+
+.sp-text {
+  margin-left: 2px;
+}
+
+.create-post {
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 10%;
+}
+
+.welcome-message {
+  margin: 15% 0 3% 0;
+}
+
+.bdg-1 {
+  margin: 2% 0 1% 0;
+}
+
+.bdg-2 {
+  margin: 0;
+}
+
+.like {
+  margin: 0 0 0 5.3%;
+}
+
+.dislike {
+  margin: 0 0 0 1.2%;
+}
+
+.tag {
+  margin: 0 1% 0 0;
+}
+
+.tags {
+  margin: 0 2% 0 0;
+}
+
+.spinload {
+  margin: 20% 0 20% 0;
+  font-size: 30px;
+}
